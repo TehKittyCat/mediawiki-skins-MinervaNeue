@@ -6,12 +6,8 @@
 			"Jolka Kaj"
 		]
 	},
-	"mobile-frontend-history": "Пу страницазының тӱзедіглерінің тархынын кӧрерге.",
 	"mobile-frontend-home-button": "Пас",
 	"mobile-frontend-language-article-heading": "Тіл",
 	"mobile-frontend-logged-in-homepage-notification": "{{GENDER:$1|Аалҷы полыңар}}, $1!",
-	"mobile-frontend-main-menu-login": "Кірерге",
-	"mobile-frontend-main-menu-settings": "Настройкалар",
-	"mobile-frontend-placeholder": "Тілирге {{SITENAME}}",
-	"mobile-frontend-random-button": "Рандом"
+	"mobile-frontend-placeholder": "Тілирге {{SITENAME}}"
 }

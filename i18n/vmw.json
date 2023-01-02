@@ -2,16 +2,11 @@
 	"@metadata": {
 		"authors": [
 			"Jacinto Jeque",
-			"Amire80",
-			"Tomas Armando Moz"
+			"Amire80"
 		]
 	},
-	"mobile-frontend-history": "Maweheryo a ehantisi ya nikukhu nla.",
-	"mobile-frontend-home-button": "Opacerya",
 	"mobile-frontend-language-article-heading": "Nttaava",
 	"mobile-frontend-logged-in-homepage-notification": "{{SOONE Awe:s1/moophiya salama",
 	"mobile-frontend-main-menu-login": "Otthuniha ovolowa",
-	"mobile-frontend-main-menu-settings": "Itefyinisawu",
-	"mobile-frontend-placeholder": "Ophavelasa {{SITENAME}}",
-	"mobile-frontend-random-button": "Waakaaha"
+	"mobile-frontend-placeholder": "Ophavela {opuro wa nsina}"
 }

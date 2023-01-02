@@ -4,17 +4,15 @@
 			"Dicto23456",
 			"Gazeb",
 			"Gramo6",
-			"KHMELNYTSKYIA",
-			"Vlad5250"
+			"KHMELNYTSKYIA"
 		]
 	},
 	"mobile-frontend-editor-edit": "Редагувати",
-	"mobile-frontend-history": "Зобразити історію едітовань той сторінкы.",
 	"mobile-frontend-home-button": "Домів",
 	"mobile-frontend-language-article-heading": "Бесїда",
 	"mobile-frontend-logged-in-homepage-notification": "{{GENDER:$1|Вітайте}}, $1!",
 	"mobile-frontend-main-menu-button-tooltip": "Відкрити головне меню",
-	"mobile-frontend-main-menu-login": "Приголосити ся",
+	"mobile-frontend-main-menu-login": "Приголошіня",
 	"mobile-frontend-main-menu-nearby": "Наблизко",
 	"mobile-frontend-main-menu-settings": "Наставлїня",
 	"mobile-frontend-main-menu-watchlist": "Слїдованы сторінкы",
