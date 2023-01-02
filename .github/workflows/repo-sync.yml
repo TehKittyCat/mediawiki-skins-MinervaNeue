@@ -12,6 +12,8 @@ jobs:
         echo repo_name=$(echo "$GITHUB_REPOSITORY" | awk -F / '{print $2}') >> $GITHUB_ENV
         echo upstream_branch=$(echo "$GITHUB_REF_NAME" | awk -F / '{print $2}') >> $GITHUB_ENV
     - uses: actions/checkout@v3
+      with:
+        fetch-depth: 0
     - uses: repo-sync/github-sync@v2
       name: Sync repo to branch
       with:
